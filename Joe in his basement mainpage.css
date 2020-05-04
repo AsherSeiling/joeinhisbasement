@@ -9,3 +9,11 @@ html {
     border-left: 200px solid white;
     border-radius: 25px;
 }
+a
+{
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: white;
+    font-family: Arial Black;
+    text-decoration: none;
+}
