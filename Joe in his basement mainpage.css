@@ -4,8 +4,11 @@ h1 {
 }
 
 html {
-    background-color: lightgrey;
-    border-right: 200px solid white;
-    border-left: 200px solid white;
-    border-radius: 25px;
+    background-color: white;
+    
+}
+.container {
+    margin:0 auto;
+    width:960px;
+    background-color: lightgray;
 }
