@@ -1,0 +1,15 @@
+h1 {
+    font-family: Verdana;
+    font-size: 35px;
+}
+
+html {
+    background-color: lightgrey;
+    border-right: 200px solid white;
+    border-left: 200px solid white;
+    border-radius: 25px;
+}
+p
+{
+    font-family: Helvetica;
+}
